@@ -10,23 +10,21 @@ I also develop software and tools. Explore my other projects at Diamond Fountain
 
 [v1.0.0 release](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/tag/v1.0.0)
 
-| Legs / 腿围 | Hair / 毛发 | Fluffy ZIP | Blender |
-| --- | --- | --- | --- |
-| +10% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-Pubic-Hair-v1.0.0.blend) |
-| +10% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-No-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-No-Pubic-Hair-v1.0.0.blend) |
-| +15% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-Pubic-Hair-v1.0.0.blend) |
-| +15% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-No-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-No-Pubic-Hair-v1.0.0.blend) |
-| +20% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-Pubic-Hair-v1.0.0.blend) |
-| +20% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-No-Pubic-Hair-v1.0.0.zip) | [.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-No-Pubic-Hair-v1.0.0.blend) |
+| Legs / 腿围 | Hair / 毛发 | Fluffy ZIP |
+| --- | --- | --- |
+| +10% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-Pubic-Hair-v1.0.0.zip) |
+| +10% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-10pct-No-Pubic-Hair-v1.0.0.zip) |
+| +15% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-Pubic-Hair-v1.0.0.zip) |
+| +15% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-15pct-No-Pubic-Hair-v1.0.0.zip) |
+| +20% | Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-Pubic-Hair-v1.0.0.zip) |
+| +20% | No Pubic Hair | [ZIP](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Edit-Thick-Version-20pct-No-Pubic-Hair-v1.0.0.zip) |
 
-ZIP 用于 Fluffy Mod Manager 安装；`.blend` 用于 Blender 查看与编辑，贴图已内嵌。每个 ZIP 都是独立安装包，同一时间启用一个 Mai C1 安装包。
+选择一个 ZIP，通过 Fluffy Mod Manager 安装。每个 ZIP 都是独立安装包，同一时间启用一个 Mai C1 安装包。
 
-Use ZIP files with Fluffy Mod Manager. The optional `.blend` files contain packed textures for viewing and editing in Blender. Each ZIP is a standalone package; enable one Mai C1 package at a time.
+Install one ZIP with Fluffy Mod Manager. Each ZIP is a standalone package; enable one Mai C1 package at a time.
 
-- [Mai-C1-Leg-Thickness-Comparison-10-15-20-v1.0.0.blend](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Leg-Thickness-Comparison-10-15-20-v1.0.0.blend)
-- [Mai-C1-Leg-Thickness-Comparison-10-15-20.png](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/Mai-C1-Leg-Thickness-Comparison-10-15-20.png)
 
-[Download checksums](https://github.com/G80M3/sf6-mai-c1-edit-thick-version/releases/download/v1.0.0/SHA256SUMS.txt)
+[Checksums / 校验值](RELEASE_SHA256SUMS.txt)
 
 ## 中文
 
@@ -86,13 +84,6 @@ Disable the current Mai C1 mod before switching thickness, hair or thong options
 - Access to Mai in-game.
 - Fluffy Mod Manager.
 
-## Leg thickness comparison / 腿围对比
-
-Blender preview, left to right: +10%, +15%, +20%.
-
-Blender 预览，从左到右为 +10%、+15%、+20%。
-
-![Leg thickness comparison](images/leg-thickness-comparison.png)
 
 ## Credits / 鸣谢
 

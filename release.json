@@ -17,26 +17,10 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-10pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "d9d72b1ddf03b792a4d0afc243b6d95ad3d123b0cfc5f70b5a47da0cc847db36",
-      "size": 46304083,
-      "percent": 10,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-10pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "14a5a449427b1282ff3d60c37027d744ed5c3e35922bdbfccecee702fe4f9f9e",
       "size": 30214877,
-      "percent": 10,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-10pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "5d711a12276914882e75eb4ef0f5672ce8c100ae10ff03293d00e9d0555ba2be",
-      "size": 43585359,
       "percent": 10,
       "hair": "NoPublicHair"
     },
@@ -49,26 +33,10 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-15pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "50c2da09cfd3cdd2f44dc71cef07def79f2c5eb347209e72d3705447059d010a",
-      "size": 46307013,
-      "percent": 15,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-15pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "06e2dad4dcc3fcceacd5a365fea932d20330033bc7b0c57b86b596a96ae81000",
       "size": 30214777,
-      "percent": 15,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-15pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "0d23f7037aafde68ff163b58686773f916db852359c2d9f1416d272a2e7da813",
-      "size": 43588252,
       "percent": 15,
       "hair": "NoPublicHair"
     },
@@ -81,46 +49,13 @@
       "hair": "PublicHair"
     },
     {
-      "name": "Mai-C1-Edit-Thick-Version-20pct-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "c271b4a5a16e7978cb063b19ea02590414ca21919364e6c933b5fd95fdebb50b",
-      "size": 46303143,
-      "percent": 20,
-      "hair": "PublicHair"
-    },
-    {
       "name": "Mai-C1-Edit-Thick-Version-20pct-No-Pubic-Hair-v1.0.0.zip",
       "kind": "fluffy_zip",
       "sha256": "1d6a3f69c72587943856ddbf1d1ee7372cfe29c58b12ef1aa9dd893054a605cf",
       "size": 30214686,
       "percent": 20,
       "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Edit-Thick-Version-20pct-No-Pubic-Hair-v1.0.0.blend",
-      "kind": "editable_blend",
-      "sha256": "70d626888270a2e0feae4075d3478967dc9129a4e985b06d33cbe82fb8ffff04",
-      "size": 43584655,
-      "percent": 20,
-      "hair": "NoPublicHair"
-    },
-    {
-      "name": "Mai-C1-Leg-Thickness-Comparison-10-15-20-v1.0.0.blend",
-      "kind": "comparison_blend",
-      "sha256": "f8e72466eddd48b5afa00ef865514c2b53aa85547628536d21e1d83c3f174b2b",
-      "size": 52018013
-    },
-    {
-      "name": "Mai-C1-Leg-Thickness-Comparison-10-15-20.png",
-      "kind": "blender_comparison_image",
-      "sha256": "8ac120dc593e438beed36256c779043a3beb217f0e5030b7df894c442e759caf",
-      "size": 2448148
-    },
-    {
-      "name": "SHA256SUMS.txt",
-      "kind": "checksums",
-      "sha256": "209fb01993f6402a417f8b587ce1e174e0cdf77be3a91bf53d80ffad39421c0f",
-      "size": 1701
     }
-  ]
+  ],
+  "publication_scope": "installation_zip_only"
 }

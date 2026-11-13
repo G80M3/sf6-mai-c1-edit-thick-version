@@ -9,3 +9,5 @@ __MACOSX/
 __pycache__/
 .env
 .env.*
+
+/images/leg-thickness-comparison.png
